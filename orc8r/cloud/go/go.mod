@@ -36,9 +36,9 @@ require (
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/go-swagger/go-swagger v0.21.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
-	github.com/golang/protobuf v1.3.3
-	github.com/google/go-cmp v0.4.0
-	github.com/google/uuid v1.1.1
+	github.com/golang/protobuf v1.4.2
+	github.com/google/go-cmp v0.5.0
+	github.com/google/uuid v1.1.2
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/imdario/mergo v0.3.5
 	github.com/labstack/echo v3.3.10+incompatible
@@ -63,7 +63,7 @@ require (
 	github.com/wadey/gocovmerge v0.0.0-20160331181800-b5bfa59ec0ad
 	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
 	golang.org/x/tools v0.0.0-20191012152004-8de300cfc20a
-	google.golang.org/grpc v1.31.0
+	google.golang.org/grpc v1.37.0
 	gopkg.in/DATA-DOG/go-sqlmock.v1 v1.3.0
 	gopkg.in/yaml.v2 v2.3.0
 	k8s.io/api v0.0.0-20191016110408-35e52d86657a
